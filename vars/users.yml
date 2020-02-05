@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
-    aws_groups: "sacramento, fresno, indio"
-  - name: user2
-    aws_groups: "losangeles, sanfrancisco, napa"
-  - name: user3
-    aws_groups: "palmsprings, indio, sandiego"
+  - name: Airports
+    aws_groups: "KUL, LAX, XMN"
+  - name: Airport Locations
+    aws_groups: "Kuala Lumpur, Los Angeles, Xiamen"
+  - name: Cities
+    aws_groups: "Dallas, Singapore, Mammoth"
