@@ -3,6 +3,6 @@ users:
   - name: Airports
     aws_groups: "KUL, LAX, XMN"
   - name: Airport Locations
-    aws_groups: "Kuala Lumpur, Los Angeles, Xiamen"
+    aws_groups: "Kuala_Lumpur, Los_Angeles, Xiamen"
   - name: Cities
     aws_groups: "Dallas, Singapore, Mammoth"
