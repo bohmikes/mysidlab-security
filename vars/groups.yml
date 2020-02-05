@@ -3,9 +3,9 @@ aws_groups:
   - KUL
   - LAX
   - XMN
-  - Los Angeles
+  - Los_Angeles
   - Xiamen
-  - Kuala Lumpur
+  - Kuala_Lumpur
   - Dallas
   - Singapore
   - Mammoth
